@@ -1,4 +1,4 @@
-# ESP32-CAM Wi-Fi Camera Car with Pan-Tilt Control
+# ESP32-CAM Wi-Fi Camera Car 
 
 This project lets you remotely control a camera car using the ESP32-CAM. The car supports real-time video streaming over Wi-Fi, pan-tilt camera control using servo motors, and movement via dual DC motors driven by an L298N motor driver.
 
